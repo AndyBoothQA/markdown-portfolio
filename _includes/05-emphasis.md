@@ -1,0 +1,3 @@
+## Formatting
+- *Italic*
+- **Bold**
